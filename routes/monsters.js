@@ -1,6 +1,6 @@
 const { Router } = require('express');
 const pool = require('../db');
-const { response } = require('../app');
+// const { response } = require('../app');
 
 const router = Router();
 
